@@ -1,0 +1,113 @@
+
+        * {
+            box-sizing: border-box;
+            background-color: #FAFAFA;
+            text-decoration: none;
+        }
+        
+        .name{
+            color: rgb(231, 62, 62);
+            margin-top: 100px;
+            margin-bottom: 100px;
+        }
+
+        .college {
+            background-color:white;
+            border-bottom: 2px solid #d7dbdd;
+            border-left: 2px solid #d7dbdd;
+            border-right: 2px solid #d7dbdd;
+            width: 330px;
+            height: 475px;
+            margin: auto;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+        }
+        .X{
+            background-color: white;
+        }
+
+        .logo {
+            background-image: url(photo.png);
+            background-size: 50px;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+
+        #logo1 {
+            
+            width: 326px;
+            height: 80px;
+            background-color:#FFDDA3;
+            border-top-right-radius: 10px;
+            border-top-left-radius: 10px;
+        }
+        #P {
+            font-family: 'SophosSansLight', sans-serif;
+            padding-top: 24px;
+            margin-left: 44px;
+            font-size: 17px;
+            font-weight: 550;
+            color: #4747FF;
+            background-color: white;
+        }
+        
+
+        #username {
+            margin-top: 15px;
+            margin-left: 36px;
+            border-radius: 8px;
+            padding-left: 10px;
+            font-size: 15px;
+            color: #d7dbdd;
+            border: #d7dbdd solid 1px;
+            height: 37px;
+            width: 253px;
+            background-color: white;
+        }
+
+        #password {
+            margin-top: 35px;
+            margin-left: 36px;
+            border-radius: 8px;
+            font-size: 15px;
+            padding-left: 10px;
+            color: #d7dbdd;
+            border: #d7dbdd solid 1px;
+            height: 37px;
+            width: 253px;
+            background-color: white;
+        }
+        .button {
+            margin-top: 45px;
+            margin-left: 34px;
+            background-color: green;
+            font-family: 'SophosSansLight', sans-serif;
+            border-radius: 4px;
+            border: 0.5px solid #988b76;
+            width: 253px;
+            height: 37px;
+        }
+        button a{
+            background-color: green;
+            color: #FAFAFA ;
+            font-weight: bold;
+        }
+        
+       
+        .A{
+        color: red;
+        margin-left: 95px;
+        background-color: white;
+        }
+        .A:hover{
+            cursor: default;
+        }
+        
+        .outer{
+            text-align: center;
+            margin-top: 25px;
+            color: #FF684A;
+            font-size: 19px;
+        }
+        
+    
